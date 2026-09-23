@@ -24,11 +24,11 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-KEYWORD,google.com
+DOMAIN-KEYWORD,google-analytics.com
+DOMAIN-KEYWORD,googleapis.com
+DOMAIN-KEYWORD,gstatic.com
+DOMAIN-KEYWORD,googleusercontent.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,twitter.com
